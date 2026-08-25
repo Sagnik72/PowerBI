@@ -1,4 +1,4 @@
-# 📊 Tushit Ecommerce Sales Dashboard
+# 📊 Ecommerce Sales Dashboard
 
 Welcome to my **Power BI project** -- an interactive **Ecommerce Sales
 Dashboard** that provides deep insights into business performance across
@@ -77,4 +77,4 @@ business strategies effectively.
 
 ------------------------------------------------------------------------
 
-✨ Created with passion by **Tushit**
+✨ Created with passion by **Sagnik**
